@@ -1,6 +1,6 @@
 ---
 title: "UI & UX Testing"
-date: 2025-10-12 10:00:00
+date: 2025-08-25 08:30:00
 categories: [Software Testing and Quality Assurance]
 tags: [UI Testing, UX Testing, Accessibility, Heuristics]
 image: /assets/images/STQA/ui-ux-testing.png

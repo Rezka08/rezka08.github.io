@@ -1,6 +1,6 @@
 ---
 title: "Introduction to Selenium WebDriver"
-date: 2025-10-12 15:00:00
+date: 2025-09-14 07:30:00
 categories: [Software Testing and Quality Assurance]
 tags: [STQA]
 image: /assets/images/STQA/pengantar-selenium-webdriver.png

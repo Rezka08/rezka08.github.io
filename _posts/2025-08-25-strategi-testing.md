@@ -1,6 +1,6 @@
 ---
 title: "Software Testing Strategy"
-date: 2025-10-12 09:00:00
+date: 2025-08-25 07:30:00
 categories: [Software Testing and Quality Assurance]
 tags: [STQA]
 image: /assets/images/STQA/strategi-testing.png

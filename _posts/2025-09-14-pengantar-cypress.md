@@ -1,6 +1,6 @@
 ---
 title: "Introduction to Cypress"
-date: 2025-10-12 15:30:00
+date: 2025-09-14 08:30:00
 categories: [Software Testing and Quality Assurance]
 tags: [STQA]
 image: /assets/images/STQA/pengantar-cypress.png

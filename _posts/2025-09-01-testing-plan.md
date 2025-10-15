@@ -1,6 +1,6 @@
 ---
 title: "Testing Plan"
-date: 2025-10-12 11:00:00
+date: 2025-09-01 07:30:00
 categories: [Software Testing and Quality Assurance]
 tags: [STQA]
 image: /assets/images/STQA/testing-plan.png

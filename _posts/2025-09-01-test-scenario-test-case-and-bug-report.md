@@ -1,6 +1,6 @@
 ---
 title: "Test Scenario, Test Case, and Bug Report"
-date: 2025-10-12 12:00:00
+date: 2025-09-01 08:30:00
 categories: [Software Testing and Quality Assurance]
 tags: [STQA]
 image: /assets/images/STQA/test-scenario-test-case-and-bug-report.png
