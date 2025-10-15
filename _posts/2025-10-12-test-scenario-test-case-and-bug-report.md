@@ -8,7 +8,7 @@ image: /assets/images/STQA/test-scenario-test-case-and-bug-report.png
 
 # Test Scenario, Test Case, and Bug Report
 
-This document translates and consolidates the group's material on test scenarios, test cases, and bug reporting into a reusable English reference. It includes templates, a set of concrete test scenarios and test cases for a BMI application, an example bug report, severity/priority guidelines, and best practices to avoid bugs. :contentReference[oaicite:1]{index=1}
+This document translates and consolidates the group's material on test scenarios, test cases, and bug reporting into a reusable English reference. It includes templates, a set of concrete test scenarios and test cases for a BMI application, an example bug report, severity/priority guidelines, and best practices to avoid bugs.
 
 ---
 
@@ -53,7 +53,7 @@ TS001 | Verify slider input behavior | Weight and height sliders
 TS002 | Verify BMI calculation and classification | BMI calculation & classification
 TS003 | Verify BMI history saving | BMI history (storage/display)
 
-*(These scenarios are derived from the project test plan.)* :contentReference[oaicite:2]{index=2}
+*(These scenarios are derived from the project test plan.)*
 
 ---
 
@@ -74,7 +74,7 @@ TS003 | Verify BMI history saving | BMI history (storage/display)
 | TC009 | Verify saving multiple history entries without loss | App is open and history has entries | 1. Save multiple BMI results sequentially. 2. Open History page. | Series of saved BMI entries | All entries are preserved in order; no data loss. |
 
 **Notes:**  
-- I corrected several expected BMI computations to match the standard formula and rounded to two decimals. The original slides had a couple of arithmetic inconsistencies; the corrected values above are used as authoritative expected results during testing. :contentReference[oaicite:3]{index=3}
+- I corrected several expected BMI computations to match the standard formula and rounded to two decimals. The original slides had a couple of arithmetic inconsistencies; the corrected values above are used as authoritative expected results during testing.
 
 ---
 
