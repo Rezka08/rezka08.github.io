@@ -13,11 +13,6 @@ image:
 
 ## Aplikasi Manajemen Tugas dan Jadwal
 
-
-<p style="margin-right:10px; flex:0 0 auto; text-align:center" align="center">
-    <img src="app\src\main\res\drawable\ic_app.png" alt="Widget" style="width:200px; height:auto;"/>
-</p>
-
 **TaskMaster** adalah aplikasi Android native yang dirancang untuk membantu mahasiswa dan profesional mengorganisir dan melacak tugas dengan visualisasi berbasis prioritas dan waktu. Aplikasi ini fokus pada kemudahan penggunaan dan visualisasi yang jelas untuk membantu pengguna mengelola jadwal mereka dengan lebih efektif.
 
 ## 🎯 Tujuan dan Manfaat
